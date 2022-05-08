@@ -1,0 +1,82 @@
+
+.navbarnew{
+    position: fixed;
+    width: 100%;
+}
+.signinicon{
+    height:20px;
+}
+.banner{
+    background-image: url('https://st.redbus.in/Images/RHSS/email/redbus-web-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+}
+.bannerOfferdetails{
+    height: 130px !important;
+    background-color: #f7f7f7 !important;
+    width:720px !important;
+    /* border: 1px solid black !important; */
+}
+.center{
+    margin-left: 8%;
+}
+.firstDiv,.secondDiv{
+    float: left;
+    width: 30%;
+    /* background-color: red; */
+}
+
+.secondDiv{
+    width: 60%;
+    /* background-color: pink; */
+    padding: 36px;
+}
+.bannerOffer{
+    margin-top: 8% !important;
+    margin-left:22% !important;
+}
+
+/*  */
+.searchInput{
+    width:55%;
+    padding-top:17%;
+}
+.navbarnew{
+    margin-bottom: -90px;
+}
+.Offer{
+    display: inline-block;
+    margin-left: 2%;
+}
+
+.OfferDetails{
+    background-color:#f7f7f7;
+    border: 1px solid #f5f6f6;
+    float: left;
+    height: 230px;
+    width:310px;
+    box-shadow: 10px 5px 20px #f5f6f6;
+}
+.carouselHeader{
+    /* background-color: green; */
+    margin-top: 10%;
+    margin-bottom: 5%;
+}
+.carouselDiv{
+    width:90%;
+    margin-left: 5%;
+    /* background-color: black; */
+}
+.carouselSubitem{
+    width:80%;
+    margin-left: 10%;
+}
+
+.carouselbuttonleft{
+    margin-left:1px;
+    
+}
+.carousel-control-prev-icon {
+color:black;
+}
